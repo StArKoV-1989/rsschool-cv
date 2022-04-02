@@ -1,4 +1,5 @@
-## ___rsschool-CV___   
+## ___rsschool-CV___  
+![My photo](1.jpg 'Starkov Sergei') 
 # __Starkov Sergei__
  ## My Contact info:
 * ## Location: Grodno, Belarus    
@@ -15,13 +16,9 @@
 * ## Git, GitHub
 * ## VS Code, IntelliJ IDEA
 * ## Java
----
-//////////////////# Code Examples /////////////////
-
 --- 
 ## Projects:
-    _Nothing yet, but everything is ahead!_  
-
+    Nothing yet, but everything is ahead!  
 --- 
 ## Education:
 * ## University: State University of Grodno of Y. Kupala, Industrial electronics, engineer
