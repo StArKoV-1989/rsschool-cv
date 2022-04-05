@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+margin-top: 0%;
+background-color: rgb(211, 218, 216);
+color: #0f141e
+font-size 16 px;
+}
+.ava {
+    width: 350px;
+    border-radius:25% / 10%; ;
+    box-shadow: 16px 14px 17px 14px rgba(0, 0, 0,25%) ;
+    }
+    .info {
+        text-align: left;
+padding: 10px;
+margin: 10px;
+border: 15px;
+    }
+    .tb_red {
+        background-color: rgba(226, 57, 57, 0.568);
+    }
+    .tb_green {
+        background-color: rgb(129, 165, 131);
+    }
+    .tb_blue {
+        background-color: rgb(163, 228, 214);
+    }
+    .tb_yellow {
+        background-color: rgb(231, 229, 108);
+    }.tb_orange {
+        background-color: rgb(233, 134, 88);
+    }.tb_grey {
+        background-color: rgb(100, 107, 106);
+    }
+    .container {
+        max-width: 750px;
+        margin:auto;
+        text-align: center;
+    }
